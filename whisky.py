@@ -3,5 +3,5 @@ for x in range(11):
     if x%i==0:
         print(x)
 
-
+print("hello guys ")
     
